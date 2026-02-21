@@ -1,0 +1,41 @@
+{
+  "Parent": "Yernemm_Labels_LabelSymbol",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/YerLabels/Regular/LabelSignSymbolArrowDown.png"
+      }
+    ]
+  },
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Yernemm_LabelSign",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Decorative"
+        ]
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "Icon": "Icons/ItemsGenerated/Yernemm_Labels_LabelSymbolArrowDown.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      11,
+      -19
+    ]
+  }
+}

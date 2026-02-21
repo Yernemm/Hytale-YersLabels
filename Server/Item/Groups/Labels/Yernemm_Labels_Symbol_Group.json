@@ -1,0 +1,14 @@
+{
+  "Blocks": [
+    "Yernemm_Labels_LabelSymbol",
+    "Yernemm_Labels_LabelSymbolHeart",
+    "Yernemm_Labels_LabelSymbolTick",
+    "Yernemm_Labels_LabelSymbolCross",
+    "Yernemm_Labels_LabelSymbolNoEntry",
+    "Yernemm_Labels_LabelSymbolWarning",
+    "Yernemm_Labels_LabelSymbolArrowUp",
+    "Yernemm_Labels_LabelSymbolArrowRight",
+    "Yernemm_Labels_LabelSymbolArrowDown",
+    "Yernemm_Labels_LabelSymbolArrowLeft"
+  ]
+}

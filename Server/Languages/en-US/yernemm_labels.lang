@@ -1,0 +1,6 @@
+LabelItems.name = Label (Items)
+LabelBlocks.name = Label (Blocks)
+LabelSymbols.name = Label (Symbols)
+LabelText.name = Label (Text)
+
+LabelGeneric.description = Use a builder's hammer or place in a builder's workbench to change the image on the label. You can only cycle between labels in the same category.

@@ -1,0 +1,53 @@
+{
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "Items/YerLabels/Regular/LabelSignEmpty.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods"
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "BlockSoundSetId": "Wood",
+    "MaxSupportDistance": 8,
+    "Supporting": {
+      "Up": [
+        {
+          "FaceType": "Shelf"
+        }
+      ]
+    },
+    "ParticleColor": "#5b3222",
+    "CustomModel": "Items/YerLabels/LabelNormal.blockymodel",
+    "SupportsRequiredFor": "Any",
+    "HitboxType": "Yernemm_LabelNormal_Collider"
+  },
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      10,
+      -21
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood",
+  "Parent": "Yernemm_Labels_LabelNormal"
+}

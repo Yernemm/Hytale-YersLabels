@@ -1,0 +1,100 @@
+{
+  "TranslationProperties": {
+    "Description": "yernemm_labels.LabelGeneric.description",
+    "Name": "yernemm_labels.LabelItems.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Yernemm_Labels_LabelNormal.png",
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Recipe": {
+    "Input": [
+      {
+        "Quantity": 2,
+        "ItemId": "Ingredient_Fibre"
+      },
+      {
+        "ResourceTypeId": "Rubble"
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Furniture_Bench",
+        "Type": "Crafting",
+        "Categories": [
+          "Furniture_Misc"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "Items/YerLabels/Regular/LabelSignIngot.png"
+      }
+    ],
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Woods",
+        "DropList": "Yernemm_Labels_Drops"
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "BlockSoundSetId": "Wood",
+    "MaxSupportDistance": 8,
+    "Supporting": {
+      "Up": [
+        {
+          "FaceType": "Shelf"
+        }
+      ]
+    },
+    "ParticleColor": "#5b3222",
+    "CustomModel": "Items/YerLabels/LabelNormal.blockymodel",
+    "SupportsRequiredFor": "Any",
+    "HitboxType": "Yernemm_LabelNormal_Collider"
+  },
+  "Interactions": {
+    "Primary": "Block_Primary",
+    "Secondary": "Block_Secondary"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      11,
+      -19
+    ]
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Fuel"
+    },
+    {
+      "Id": "Charcoal"
+    },
+    {
+      "Id": "Yernemm_LabelSign"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Furniture"
+    ],
+    "Family": [
+      "Village"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Wood"
+}

@@ -1,0 +1,9 @@
+{
+  "Blocks": [
+    "Yernemm_Labels_LabelBlock",
+    "Yernemm_Labels_LabelCobble",
+    "Yernemm_Labels_LabelWood",
+    "Yernemm_Labels_LabelBrick",
+    "Yernemm_Labels_LabelStair"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Parent": "Yernemm_Labels_LabelTextA",
+  "BlockType": {
+    "CustomModelTexture": [
+      {
+        "Texture": "Items/YerLabels/Regular/LabelSignText_Ex.png"
+      }
+    ]
+  },
+  "Recipe": {
+    "Input": [
+      {
+        "ResourceTypeId": "Yernemm_LabelSignText",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Sign"
+        ]
+      }
+    ],
+    "OutputQuantity": 1
+  },
+  "Icon": "Icons/ItemsGenerated/Yernemm_Labels_LabelText_Ex.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      11,
+      -19
+    ]
+  }
+}

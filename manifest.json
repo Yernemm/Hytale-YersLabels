@@ -1,0 +1,24 @@
+{
+  "Group": "Yernemm",
+  "Name": "Yer's Labels",
+  "Version": "1.2.1",
+  "Description": "Adds various labels to keep your storage organised.",
+  "Authors": [
+    {
+      "Name": "Yernemm",
+      "Email": "",
+      "Url": "https://yernemm.xyz/"
+    }
+  ],
+  "Website": "https://www.curseforge.com/hytale/mods/labels",
+  "ServerVersion": "2026.02.19-1a311a592",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": [],
+  "UpdateChecker": {
+    "CurseForge": "1444183"
+  }
+}
