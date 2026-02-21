@@ -1,8 +1,8 @@
 # Yernemm's Labels
 A simple Hytale mod that adds various labels to the game.
 
-## [Info Page](https://notes.yernemm.xyz/Projects/Mods/Hytale/Yer's-Labels/main)
-## [Curseforge](https://www.curseforge.com/hytale/mods/labels)
+### [Info Page](https://notes.yernemm.xyz/Projects/Mods/Hytale/Yer's-Labels/main)
+### [Curseforge](https://www.curseforge.com/hytale/mods/labels)
 
 ---
 
