@@ -55,7 +55,7 @@
         }
       ]
     },
-    "ParticleColor": "#5b3222",
+    "ParticleColor": "#c8917b",
     "CustomModel": "Items/YerLabels/LabelNormal.blockymodel",
     "SupportsRequiredFor": "Any",
     "HitboxType": "Yernemm_LabelNormal_Collider"
